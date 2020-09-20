@@ -1,4 +1,4 @@
-# Deploying "Hello World" web applicaation on AWS
+# Deploying "Hello World" web application on AWS
 
 Create a "Hello World" web application locally, and zip the directory containing the application source code.
 
