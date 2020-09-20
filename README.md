@@ -8,7 +8,7 @@ To deploy web application on AWS:
 
 Login to AWS account.
 
-Navigate to AWS Elastic beanstalk service console page.
+Navigate to AWS Elastic Beanstalk service console page.
 
 Click "create application" and enter the name of your application and click create again.
 
