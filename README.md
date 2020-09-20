@@ -2,6 +2,8 @@
 
 Create a "Hello World" web application locally, and zip the directory containing the application source code.
 
+Download the nodejs directory and zip it to nodejs.zip and make use of this zip file for deploying.
+
 To deploy web application on AWS:
 
 Login to AWS account.
@@ -18,7 +20,7 @@ Next, enter environment information like name, description of your choice.
 
 Select Platform as "Tomcat" and platform branch as "Tomcat 7 with Java 7 running on 64bit Amazon Linux".
 
-Now, select option 'upload the source code from local file' and upload the source code .zip file and click "Create environment".
+Now, select option 'upload the source code from local file' and upload the source code nodejs.zip file and click "Create environment".
 
 Once the enviornmnet update completed successfully, it will reflect the Health as "ok" and in "Green" color.
 
